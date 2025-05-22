@@ -1314,3 +1314,9 @@ section,
 .btn-custom:active {
   background-color: #272b28 !important;
 }
+
+.flex-custom {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
